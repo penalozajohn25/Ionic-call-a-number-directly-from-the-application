@@ -1,6 +1,6 @@
 # call a number directly from the application
 
-## description 🤓
+## description
 
 Function to make calls directly through the application 
 
